@@ -91,8 +91,6 @@ disp(['Stopptid:     ' num2str(t) ' s'])
 disp(['Stoppsträcka: ' num2str(s) ' m'])
 disp(['Bromsmoment:  ' num2str(Mb) ' Nm'])
 
-run("bromskalkyler.m")
-
 %% EOF
 
 
